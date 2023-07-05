@@ -1,0 +1,20 @@
+{
+  "name": "lyrox",
+  "version": "1.0.0",
+  "description": "https://www.tokyocode.xyz/",
+  "main": "parzival.js",
+  "scripts": {
+    "start": "node lyroxs.js"
+  },
+  "engines": {
+    "node": "16.6"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^5.1.0",
+    "leaf-utils": "^1.1.3",
+        "ervel.db": "^1.2.5",
+    "ytdl-core-discord": "^1.3.1"
+  }
+}
