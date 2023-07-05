@@ -1,6 +1,6 @@
 const aoijs = require("aoi.js")
 const bot = new aoijs.Bot({
-token: process.env.token, 
+token: "MTExODI0OTU1NDEwMjQ1NjM4MQ.GnGzl2.gWlxqpONl5Vli5VzviRd3il2K3NO2BQUURldlA", 
 prefix: "$getServerVar[prefix]", 
 intents: "all" 
 }) 
